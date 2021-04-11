@@ -34,4 +34,4 @@ The website must, at the top of every page, have a navigation menu that:
 * Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
 * Is responsive (using media queries). The nav must have similar behavior as the screenshots "Navigation Menu" section (notice the background color change).
 
-![image](Resources/Assets/Images/Fig1.png)
+![image](Resources/Assets/Images)
